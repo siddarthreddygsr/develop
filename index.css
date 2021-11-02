@@ -202,7 +202,7 @@ ul {
 }
 
 .links a:hover{
-  color: aqua;
+  color: rgb(203, 124, 235);
 }
 
 .container.active .links a {
@@ -240,7 +240,7 @@ ul {
   transform-style: preserve-3d;
   transform-origin: left;
   transition: 0.5s;
-  background-color: white;
+  background-color: rgb(144, 102, 184);
 }
 
 .shadow.one {
@@ -313,7 +313,7 @@ footer{
   color: #fff;
 }
 .footer-content{
-  background-color: #141e29;
+  background-color: #52358b;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -418,7 +418,7 @@ td {
   /* border: 0px solid red; */
   /* padding: 5px; */
   /* margin-top: 5px; */
-  background-color: #202932;
+  background-color: #7c62b5;
   width: 100%;
   height: 100vh;
   overflow-y: scroll;
@@ -504,8 +504,8 @@ p {
   font-size: 14px;
   padding: 10px 0;
   transition: all 0.25s ease;
-  border-left: 2px solid #5f6368;
-  color: #5f6368;
+  border-left: 3px solid #ffffff86;
+  color: #ffffff86;
 }
 .container1 .tabs .tab:hover {
   color: #fff;
